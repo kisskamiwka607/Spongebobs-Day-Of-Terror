@@ -190,3 +190,6 @@ This repository serves as the official landing page for Spongebob's Day of Terro
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Spongebob's Day of Terror today!**
+
+---
+**Last updated:** 2026-11-07 23:31:30 UTC
